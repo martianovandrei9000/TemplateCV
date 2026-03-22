@@ -3,7 +3,7 @@ name-in-cyrillic : AT_LEAST_ONE
 
 stopwords:
   personal-stopwords: LIST | AI_DERIVED
-  universal-stopwords: ["наставник", "ментор", "репетитор",  "школа", "школу", "преподаватель", "автор", "стажёр", "стажер", "intern", "интерн",  "продажи", "продажам", "продвижению",  "торговых"]
+  universal-stopwords: ["наставник", "ментор", "репетитор",  "школа", "школу", "преподаватель", "автор", "стажёр", "стажер", "intern", "интерн"]
 
 preferences:
 
