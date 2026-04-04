@@ -47,7 +47,7 @@ languages:
   - idiom: LIST_NEWLINE | AI_DERIVED
 
 education:
-  - degree: LIST_BLOCK | GROUP | DEFAULT:unspecified
+  - degree: LIST_BLOCK | GROUP | AI_DERIVED
     time: 
     university: 
 
