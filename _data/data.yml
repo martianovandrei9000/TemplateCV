@@ -27,13 +27,9 @@ preferences:
   applicant-location: DEFAULT:unspecified
 
 contact:
-  github: FILLED_NEXT_STEP
   telegram: FILLED_NEXT_STEP
-  linkedin: FILLED_NEXT_STEP
   email: FILLED_NEXT_STEP
-  phone: FILLED_NEXT_STEP
-  online: FILLED_NEXT_STEP
-  calendar: FILLED_NEXT_STEP
+  phone: AI_DERIVED | DEFAULT:unspecified
 
 hardskills:
   skill:
